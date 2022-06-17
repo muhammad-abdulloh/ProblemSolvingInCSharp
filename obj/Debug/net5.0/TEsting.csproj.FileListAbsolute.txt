@@ -1,0 +1,16 @@
+C:\Users\M_Komilov\source\repos\TEsting\TEsting\bin\Debug\net5.0\TEsting.exe
+C:\Users\M_Komilov\source\repos\TEsting\TEsting\bin\Debug\net5.0\TEsting.deps.json
+C:\Users\M_Komilov\source\repos\TEsting\TEsting\bin\Debug\net5.0\TEsting.runtimeconfig.json
+C:\Users\M_Komilov\source\repos\TEsting\TEsting\bin\Debug\net5.0\TEsting.runtimeconfig.dev.json
+C:\Users\M_Komilov\source\repos\TEsting\TEsting\bin\Debug\net5.0\TEsting.dll
+C:\Users\M_Komilov\source\repos\TEsting\TEsting\bin\Debug\net5.0\TEsting.pdb
+C:\Users\M_Komilov\source\repos\TEsting\TEsting\obj\Debug\net5.0\TEsting.csproj.AssemblyReference.cache
+C:\Users\M_Komilov\source\repos\TEsting\TEsting\obj\Debug\net5.0\TEsting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M_Komilov\source\repos\TEsting\TEsting\obj\Debug\net5.0\TEsting.AssemblyInfoInputs.cache
+C:\Users\M_Komilov\source\repos\TEsting\TEsting\obj\Debug\net5.0\TEsting.AssemblyInfo.cs
+C:\Users\M_Komilov\source\repos\TEsting\TEsting\obj\Debug\net5.0\TEsting.csproj.CoreCompileInputs.cache
+C:\Users\M_Komilov\source\repos\TEsting\TEsting\obj\Debug\net5.0\TEsting.dll
+C:\Users\M_Komilov\source\repos\TEsting\TEsting\obj\Debug\net5.0\refint\TEsting.dll
+C:\Users\M_Komilov\source\repos\TEsting\TEsting\obj\Debug\net5.0\TEsting.pdb
+C:\Users\M_Komilov\source\repos\TEsting\TEsting\obj\Debug\net5.0\TEsting.genruntimeconfig.cache
+C:\Users\M_Komilov\source\repos\TEsting\TEsting\obj\Debug\net5.0\ref\TEsting.dll
