@@ -8,6 +8,8 @@ namespace TEsting
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(SanoqSistema.DecimalToBinary(200));
+            Console.WriteLine(SanoqSistema.DecimalToOctal(200));
             Console.WriteLine(SanoqSistema.DecimalToHexDecimal(200));
 
         }
